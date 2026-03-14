@@ -1,4 +1,4 @@
-# hey, i'm james
+# hey, i'm James
 
 ai engineer at [asurion](https://www.asurion.com/) and data science grad student at USF, based in san francisco.
 
