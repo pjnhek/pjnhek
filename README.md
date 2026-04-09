@@ -6,6 +6,7 @@ i build RAG pipelines, search systems, and evaluation frameworks for production 
 
 ## what i've been working on
 
+- **customer service bot intent detection** - e2e voice pipeline (stt -> tts) and llm orchestration for intent detection
 - **multi-tenant RAG pipeline** - ingestion and retrieval system with zero-code model deployment
 - **KB health detection** - corrective RAG system that flags outdated knowledge base content
 - **weather prediction pipeline** - daily Airflow pipeline on GCP that predicts tomorrow's high temp
