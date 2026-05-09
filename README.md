@@ -2,10 +2,11 @@
 
 ai engineer at [asurion](https://www.asurion.com/) and data science grad student at USF, based in san francisco.
 
-i build RAG pipelines, search systems, and evaluation frameworks for production chatbots.
+i build RAG pipelines, search systems, evaluation frameworks, and AI agents for production.
 
 ## what i've been working on
 
+- [**poc_scraper**](https://github.com/pjnhek/poc_scraper) - account-mapping prototype that scores company domains, drafts grounded outreach with inline citations, and writes results to a Google Sheet
 - [**sf date night concierge**](https://github.com/deshmukh-neel/mlops_city_concierge) - building an agentic RAG pipeline that plan dates in SF and making reservations on your behalf 
 - [**customer service bot intent detection**](https://github.com/pjnhek/voice-intent-eval) - e2e voice pipeline (stt -> tts) and llm orchestration for intent detection
 - **multi-tenant RAG pipeline (asurion)** - ingestion and retrieval system with zero-code model deployment
@@ -15,7 +16,7 @@ i build RAG pipelines, search systems, and evaluation frameworks for production 
 
 ## tools i use
 
-python, sql, langchain, rag, llms, bigquery, airflow, mongodb, gcp, docker, git
+python, sql, langchain, rag, llms, bigquery, airflow, mongodb, gcp, docker, git, anthropic, pydantic, pytest, exa, browserbase
 
 ## find me
 
