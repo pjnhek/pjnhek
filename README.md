@@ -1,6 +1,6 @@
 # hey, i'm James
 
-ai engineer at [asurion](https://www.asurion.com/) and data science grad student at USF, based in san francisco.
+ai engineer and recent masters in data science & ai grad from usfca, based in san francisco.
 
 i build RAG pipelines, search systems, evaluation frameworks, and AI agents for production.
 
